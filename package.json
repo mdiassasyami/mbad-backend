@@ -2,10 +2,10 @@
   "name": "backend-mbad",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Login.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js",
+    "start": "node Login.js",
+    "dev": "nodemon Login.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
